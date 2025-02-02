@@ -1,276 +1,276 @@
-id,name,department,University,University_ID,reviews_count,file_location,date_range
-141412,Zhiyong Gao,Mathematics,Rice University,School-799,27,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-02-20 16:30:09'), Timestamp('2024-12-17 12:46:41'))"
-182001,J Tour,Science,Rice University,School-799,19,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-04-07 17:57:22'), Timestamp('2024-04-30 01:52:27'))"
-2111513,Craig Considine,Sociology,Rice University,School-799,18,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2016-04-01 21:16:36'), Timestamp('2018-06-19 15:20:45'))"
-136273,Mikki Hebl,Psychology,Rice University,School-799,18,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-06-24 18:04:02'), Timestamp('2020-11-28 17:46:47'))"
-476772,Mike Gustin,Biology,Rice University,School-799,18,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-10-21 22:57:05'), Timestamp('2025-01-20 23:22:52'))"
-223950,Frank Jones,Mathematics,Rice University,School-799,16,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-06-23 11:35:50'), Timestamp('2024-10-02 03:13:24'))"
-1756087,Craig Ceccanti,Marketing,Rice University,School-799,16,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2012-10-22 12:55:35'), Timestamp('2014-02-13 20:27:45'))"
-200788,Jill Carroll,Humanities,Rice University,School-799,14,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-04-29 23:24:32'), Timestamp('2017-10-03 23:29:28'))"
-370239,John Zammito,History,Rice University,School-799,13,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-03-23 16:04:05'), Timestamp('2016-06-30 23:38:26'))"
-1000189,Scott Rixner,Computer Science,Rice University,School-799,13,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-05-27 21:12:25'), Timestamp('2023-03-22 03:48:43'))"
-851676,Maher Awad,Languages,Rice University,School-799,13,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-05-22 17:52:56'), Timestamp('2017-07-10 21:47:13'))"
-1951481,Kyle Goyette,History,Rice University,School-799,13,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-11-30 14:27:19'), Timestamp('2016-03-13 19:40:41'))"
-486669,Barry Dunning,Physics,Rice University,School-799,12,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-11-03 23:07:48'), Timestamp('2014-01-14 13:03:41'))"
-804954,Scott Derrick,English,Rice University,School-799,11,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-01-27 14:19:11'), Timestamp('2021-01-13 22:20:27'))"
-753756,John Ambler,Political Science,Rice University,School-799,11,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-10 21:35:32'), Timestamp('2011-12-04 19:28:45'))"
-466340,Ron Goldman,Computer Science,Rice University,School-799,11,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-09-30 17:29:07'), Timestamp('2021-02-07 05:23:30'))"
-1671235,Luay Nakhleh,Computer Science,Rice University,School-799,10,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-12-18 12:05:14'), Timestamp('2023-08-18 20:12:34'))"
-1106619,Jon Chaika,Mathematics,Rice University,School-799,9,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-02-28 20:12:46'), Timestamp('2023-04-27 19:10:40'))"
-650556,Margeret Hennessy,Chemistry,Rice University,School-799,8,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-08-09 20:02:27'), Timestamp('2022-04-13 18:54:26'))"
-842786,Ussama Makdisi,History,Rice University,School-799,8,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-05-04 14:57:41'), Timestamp('2024-05-24 02:25:25'))"
-664471,David Caprette,Biology,Rice University,School-799,8,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-09-14 08:28:39'), Timestamp('2018-12-26 08:54:27'))"
-747961,Sarah Ellenzweig,English,Rice University,School-799,8,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-05 13:19:42'), Timestamp('2015-03-10 16:14:10'))"
-325460,Patricia Brogdon-Gomez,Languages,Rice University,School-799,7,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-12-19 19:49:03'), Timestamp('2013-01-23 20:26:42'))"
-136269,Mike Byrne,Psychology,Rice University,School-799,7,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-05-04 16:41:21'), Timestamp('2009-08-21 14:52:18'))"
-477275,Ashley Leeds,Political Science,Rice University,School-799,7,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-10-22 19:19:15'), Timestamp('2013-04-09 15:53:13'))"
-585971,Mark Kulstad,Philosophy,Rice University,School-799,7,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-03-28 00:01:58'), Timestamp('2012-10-28 20:27:32'))"
-842787,Earl Black,Political Science,Rice University,School-799,7,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-05-04 14:59:56'), Timestamp('2010-11-01 10:36:32'))"
-535987,John Greiner,Computer Science,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-12-16 09:25:22'), Timestamp('2015-04-15 14:30:11'))"
-971842,Marc Dudey,Economics,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-10-12 23:23:54'), Timestamp('2014-02-20 21:20:59'))"
-1248614,Rudy Guerra,Mathematics,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-09-29 20:49:19'), Timestamp('2024-09-02 01:47:18'))"
-474649,Mary McHale,Chemistry,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-10-19 10:39:58'), Timestamp('2023-05-10 15:41:47'))"
-904627,Eric Chesebro,Mathematics,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-04-13 11:39:27'), Timestamp('2017-12-14 14:30:24'))"
-474652,Richard Stong,Mathematics,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-10-19 10:45:30'), Timestamp('2010-07-08 03:56:47'))"
-1079194,Satish Nagarajaiah,Engineering,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-04-20 14:21:55'), Timestamp('2016-06-19 13:09:48'))"
-251380,Yousif Shamoo,Biology,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-09-19 20:05:28'), Timestamp('2016-05-23 11:59:59'))"
-683739,Jeffrey Kripal,Religion,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-09-04 16:50:26'), Timestamp('2011-12-07 17:18:23'))"
-766354,Alexander Byrd,History,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-29 00:00:48'), Timestamp('2015-12-27 22:28:58'))"
-476253,Stephen Zeff,Accounting,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-10-21 11:25:14'), Timestamp('2024-03-19 23:37:36'))"
-755434,Philip Wood,Humanities,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-13 19:03:30'), Timestamp('2023-09-28 22:53:37'))"
-911397,John Hutchinson,Chemistry,Rice University,School-799,6,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-11-06 02:33:58'), Timestamp('2017-12-18 17:44:25'))"
-477277,Hanoch Sheinman,Philosophy,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-10-22 19:22:46'), Timestamp('2019-10-05 00:53:16'))"
-742662,Thomas Haskell,History,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-11-15 14:10:19'), Timestamp('2020-10-08 21:25:06'))"
-251142,Cronin Justin,English,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-09-18 22:40:44'), Timestamp('2023-09-18 11:56:40'))"
-1149511,Luis Duno-Gottberg,Film,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-06-25 11:40:02'), Timestamp('2024-03-13 21:07:26'))"
-1257827,Elena Pavelescu,Mathematics,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-03-26 15:15:30'), Timestamp('2014-01-10 01:03:02'))"
-116438,John Bryant,Economics,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-02-19 00:06:43'), Timestamp('2012-09-23 22:23:21'))"
-789517,Andre Droxler,Geology,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-12-27 15:25:48'), Timestamp('2017-08-14 01:02:39'))"
-174659,Deborah Nelson,Languages,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2003-03-28 15:05:22'), Timestamp('2015-01-14 15:18:04'))"
-490590,Richard Baraniuk,Engineering,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-11-08 14:26:57'), Timestamp('2014-06-18 19:00:56'))"
-657495,Evelyne Datta,Languages,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-08-24 20:13:04'), Timestamp('2010-09-29 20:45:57'))"
-664446,Linda Neagley,Art History,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-09-02 03:19:38'), Timestamp('2012-08-07 15:27:27'))"
-761907,George Sher,Philosophy,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-20 15:07:49'), Timestamp('2015-10-13 22:50:33'))"
-844517,Yehia Massoud,Engineering,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-08-25 13:08:05'), Timestamp('2010-11-23 22:55:04'))"
-585959,Bridget Gorman,Sociology,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-03-27 23:36:59'), Timestamp('2009-10-09 03:09:21'))"
-1064195,Diana Strassmann,Women's Studies,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-11-29 20:16:12'), Timestamp('2013-12-26 23:00:42'))"
-712087,Devika Subramanian,Computer Science,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-09-29 11:48:22'), Timestamp('2019-04-25 18:26:50'))"
-702552,Emilie Dejonckheere,Languages,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-10-17 19:26:01'), Timestamp('2010-07-08 03:30:45'))"
-2931991,HENGRUI LUO,Mathematics,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-09-22 00:06:09'), Timestamp('2024-10-19 16:58:00'))"
-682125,Matt Schlief,Theater,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-09-09 13:53:24'), Timestamp('2011-01-10 01:58:32'))"
-397811,Jane Hartsfield,Mathematics,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-05-26 01:56:05'), Timestamp('2016-10-17 18:55:42'))"
-362387,David Worth,Humanities,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-03-06 13:30:30'), Timestamp('2014-06-01 21:20:32'))"
-807291,Daniel Beal,Psychology,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-11-03 17:19:55'), Timestamp('2010-06-06 23:33:04'))"
-1040622,Judy Radigan,Education,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-10-20 11:10:27'), Timestamp('2023-04-12 19:36:35'))"
-2099367,Virginia Weckstrom Kantor,Music,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2016-01-09 09:52:50'), Timestamp('2024-03-11 23:50:59'))"
-490598,Richard Massey,Engineering,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2004-11-08 14:29:56'), Timestamp('2009-12-10 22:58:06'))"
-2727560,Mack Joyner,Computer Science,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2021-10-22 06:05:47'), Timestamp('2023-09-11 04:29:12'))"
-585969,Richard Grandy,Philosophy,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-03-28 00:01:13'), Timestamp('2023-09-25 17:39:44'))"
-268549,Cary Wolfe,English,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-09-01 12:12:18'), Timestamp('2011-12-30 04:20:59'))"
-498287,Andrew Barron,Chemistry,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-12-26 23:02:50'), Timestamp('2018-02-10 16:05:32'))"
-765791,Stanley Dodds,Physics,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-28 13:00:06'), Timestamp('2018-11-03 10:56:26'))"
-1787432,Robert Werth,Sociology,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2012-12-27 00:38:44'), Timestamp('2023-01-17 04:01:03'))"
-2616390,Eugene Zubarev,Chemistry,Rice University,School-799,5,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2020-08-18 17:59:15'), Timestamp('2025-01-06 01:14:21'))"
-1000183,Don Johnson,Engineering,Rice University,School-799,4,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-09-09 01:24:19'), Timestamp('2023-11-19 23:46:03'))"
-554128,Paul Stevenson,Physics,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-01-13 01:15:23'), Timestamp('2010-06-04 23:14:02'))"
-804321,Suzanne Kemmer,Linguistics,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-04-02 05:43:11'), Timestamp('2010-07-08 03:48:50'))"
-833522,John Olson,Chemistry,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-04-16 15:58:54'), Timestamp('2010-02-07 18:54:52'))"
-1314428,James Weston,Economics,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-12-05 23:59:39'), Timestamp('2016-02-29 13:15:00'))"
-1966505,Jonathan Lankford,Humanities,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-12-20 12:19:41'), Timestamp('2017-10-24 03:45:06'))"
-1451721,Carl Atlee,Languages,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-12-12 00:18:56'), Timestamp('2011-07-21 15:39:51'))"
-1236413,Brian Huberman,Film,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-12-29 11:06:09'), Timestamp('2017-08-14 00:53:22'))"
-1029743,Sabin Cautis,Mathematics,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-09-16 19:57:01'), Timestamp('2013-10-11 04:16:20'))"
-930516,Brandon Dugan,Geology,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-12-07 16:05:57'), Timestamp('2015-09-22 17:39:27'))"
-845155,Vicki Colvin,Chemistry,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-10-11 16:08:43'), Timestamp('2022-11-11 18:17:26'))"
-1000188,Erzsebet Merenyi,Engineering,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2012-01-04 01:08:04'), Timestamp('2023-06-23 17:16:16'))"
-2380454,Siran Li,Mathematics,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2018-05-22 22:30:59'), Timestamp('2022-05-20 03:03:56'))"
-1352569,Linda McNeil,Education,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-11-06 18:36:05'), Timestamp('2018-05-15 04:02:19'))"
-1000186,Farinaz Koushanfar,Engineering,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-11-07 01:45:29'), Timestamp('2017-03-01 17:42:24'))"
-1143649,James Brown,Economics,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-06-03 13:16:52'), Timestamp('2020-02-20 14:52:15'))"
-1000192,Peter Varman,Engineering,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-07-03 02:37:29'), Timestamp('2011-12-18 12:08:28'))"
-1002658,Ashutosh Sabharwal,Engineering,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-02-25 01:39:53'), Timestamp('2024-10-26 09:07:29'))"
-761910,Paul Brace,Political Science,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-20 15:09:50'), Timestamp('2011-04-18 16:55:38'))"
-2613009,Laura Kabiri,Health Science,Rice University,School-799,3,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2020-08-02 19:09:15'), Timestamp('2024-07-16 19:45:06'))"
-1005747,Heather Hardway,Mathematics,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-07-02 23:12:23'), Timestamp('2010-12-20 10:24:28'))"
-1013614,George Zodrow,Economics,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-08-04 13:40:31'), Timestamp('2014-12-08 14:38:18'))"
-1205941,Logan Browning,English,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-11-13 22:44:20'), Timestamp('2011-12-14 10:12:04'))"
-1971218,Zach Ball,Chemistry,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-12-30 04:51:36'), Timestamp('2017-04-26 21:46:10'))"
-1534930,David Kirk,Music,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-01-26 12:02:21'), Timestamp('2011-09-07 00:11:52'))"
-1586673,Mason Tomson,Science,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2016-11-08 17:43:55'), Timestamp('2016-12-28 23:01:36'))"
-2122451,Jason Hafner,Physics,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2016-03-31 10:59:15'), Timestamp('2018-07-02 22:54:48'))"
-654523,Michael Maas,History,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-02-24 09:10:31'), Timestamp('2019-02-06 02:24:57'))"
-3027745,Gibby Dunleavy,Computer Science,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-08-28 23:57:42'), Timestamp('2024-12-05 03:54:57'))"
-2480115,Leila Peyravan,Accounting,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2019-04-16 02:40:25'), Timestamp('2023-10-06 03:06:29'))"
-1376343,Susan Huang,Art History,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-12-02 20:03:08'), Timestamp('2024-02-12 17:27:48'))"
-938004,David Queller,Biology,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-12-18 16:42:53'), Timestamp('2014-12-10 22:23:12'))"
-825426,Kartik Mohanram,Engineering,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-04-25 11:48:12'), Timestamp('2009-07-03 21:16:22'))"
-1124926,Christian Emden,Languages,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-04-21 01:35:23'), Timestamp('2013-03-11 01:51:59'))"
-1807495,Otilia Obodaru,Business,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-04-09 15:56:08'), Timestamp('2015-11-30 14:19:50'))"
-1677546,Andrew Putman,Mathematics,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2012-07-28 23:41:44'), Timestamp('2018-11-27 11:42:19'))"
-791147,Kirsten Ostherr,Art History,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-11-26 16:04:59'), Timestamp('2008-04-15 12:41:20'))"
-2511813,Rustam Zufarov,Accounting,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2019-08-20 14:04:36'), Timestamp('2021-02-09 21:25:38'))"
-1965435,Carrie McNeil,Chemistry,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-12-17 03:12:26'), Timestamp('2022-03-09 00:11:22'))"
-664430,Shirine Hamadeh,Art History,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-08-27 00:56:42'), Timestamp('2014-01-21 00:13:46'))"
-1460567,Sharon Crawford,English,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-09-03 20:58:13'), Timestamp('2010-10-21 23:14:12'))"
-797258,Beatriz Gonzalez-Stephan,Languages,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2006-01-12 00:33:22'), Timestamp('2016-04-21 13:48:19'))"
-944707,Wesley Morris,English,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-01-06 15:12:11'), Timestamp('2010-01-10 23:02:34'))"
-974522,Meredith Skura,English,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-04-09 05:58:30'), Timestamp('2010-05-14 23:33:41'))"
-1836587,Michele Biavati,Economics,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-09-10 21:13:16'), Timestamp('2016-06-20 23:07:21'))"
-1106631,Ella Saterbak,Science,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-08-15 18:22:41'), Timestamp('2012-11-29 23:01:12'))"
-982734,Camelia Bejan,Economics,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-04-25 23:03:51'), Timestamp('2013-06-05 20:45:59'))"
-2880803,James Tour,Chemistry,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-02-28 17:13:44'), Timestamp('2024-12-04 05:48:31'))"
-1216698,Paul Hester,Fine Arts,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-11-28 21:35:51'), Timestamp('2014-01-14 13:05:28'))"
-1217445,Thomas Jaber,Music,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2008-12-01 08:31:58'), Timestamp('2012-03-08 14:21:27'))"
-2036136,vahid taghikhani ,Engineering,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2015-08-29 14:13:58'), Timestamp('2016-03-02 20:26:16'))"
-1106626,Alma Novotny,Science,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-11-09 03:22:41'), Timestamp('2022-02-03 04:22:43'))"
-3057608,Kim  Hooge,Psychology,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-12-10 16:38:47'), Timestamp('2024-12-10 20:15:47'))"
-1671232,Vivek Sarkar,Computer Science,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-12-18 11:57:09'), Timestamp('2013-02-25 19:55:15'))"
-759484,Carol Quillen,History,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2005-11-17 12:49:17'), Timestamp('2009-06-19 12:58:11'))"
-1365205,Tristram Engelhardt,Philosophy,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-02-05 21:30:48'), Timestamp('2014-01-06 23:43:17'))"
-1501681,Michelle Gilbertson,Chemistry,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-11-27 22:46:32'), Timestamp('2014-12-17 02:34:32'))"
-1826061,Joe Warren,Computer Science,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-06-20 04:30:50'), Timestamp('2013-12-09 22:59:47'))"
-939904,Haiyang Li,Business,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-12-16 19:54:49'), Timestamp('2020-04-14 01:02:53'))"
-2270074,Sharad Borle,Management,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2017-12-10 16:51:38'), Timestamp('2021-12-10 19:51:01'))"
-2045679,Jeff Nitrouer,Geology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2015-10-05 18:14:11'), Timestamp('2015-10-05 18:14:11'))"
-1025260,Nicoletta Orlandi,Philosophy,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-04-27 03:21:42'), Timestamp('2010-04-27 03:21:42'))"
-1996038,Cristina Giliberti,Languages,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2015-04-01 11:25:50'), Timestamp('2015-04-01 11:25:50'))"
-2274010,Shannon LaBove,Communication,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2017-08-15 19:50:40'), Timestamp('2017-08-15 19:50:40'))"
-2341814,Jonathan Miles,Business,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2018-02-02 10:19:17'), Timestamp('2018-02-02 10:19:17'))"
-1106632,Mary Lane,Science,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-07-08 10:03:44'), Timestamp('2010-07-08 10:03:44'))"
-3027749,Janell Straach,Engineering,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-08-29 00:03:58'), Timestamp('2024-08-29 00:03:58'))"
-2719687,Rebecca Smith,Computer Science,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2021-10-16 06:03:34'), Timestamp('2021-10-16 06:03:34'))"
-2762191,Chelsea Walton,Mathematics,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2022-01-03 01:16:49'), Timestamp('2022-01-03 01:16:49'))"
-2816035,Collete Nicolaou,Psychology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-01-21 01:18:58'), Timestamp('2024-01-21 01:18:58'))"
-2823609,Jason Joseph,Mathematics,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2022-09-26 04:02:00'), Timestamp('2022-09-26 04:02:00'))"
-1750807,Stephen Wong,Computer Science,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-02-08 03:54:33'), Timestamp('2023-02-08 03:54:33'))"
-3033484,Tim Schroeder,Philosophy,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-10-04 17:32:39'), Timestamp('2024-10-04 17:32:39'))"
-698265,Hiroko Sato,Languages,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-11-12 12:39:59'), Timestamp('2014-11-12 12:39:59'))"
-1794388,Anthony Chan,Physics,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-01-24 11:53:07'), Timestamp('2013-01-24 11:53:07'))"
-2002570,Fr. Ray Cook,Religion,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2015-04-18 16:20:24'), Timestamp('2015-04-18 16:20:24'))"
-1106625,Elias Bongmba,Religion,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2016-09-02 21:51:29'), Timestamp('2016-09-02 21:51:29'))"
-1623118,Kenneth Goldsmith,Music,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2018-05-31 15:16:14'), Timestamp('2018-05-31 15:16:14'))"
-1827486,Stanley Gilbert,Economics,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-07-01 15:43:41'), Timestamp('2013-07-01 15:43:41'))"
-2410126,Maximo Salaberry,Languages,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2018-10-13 21:33:13'), Timestamp('2018-10-13 21:33:13'))"
-1471189,Alexander Regier,English,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-11-18 21:04:16'), Timestamp('2013-11-18 21:04:16'))"
-2843733,Frederick MacKintosh,Chemistry,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-02-19 01:04:39'), Timestamp('2023-02-19 01:04:39'))"
-927547,Monika Nalepa,Political Science,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2022-11-10 19:08:55'), Timestamp('2022-11-10 19:08:55'))"
-2804652,Jared Stenson,Physics,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2022-06-08 23:41:17'), Timestamp('2022-06-08 23:41:17'))"
-3032742,Diana Massaro,Business,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-10-01 20:03:45'), Timestamp('2024-10-01 20:03:45'))"
-1412069,Jessica Logan,Psychology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2012-05-02 00:41:47'), Timestamp('2012-05-02 00:41:47'))"
-2925910,Dialika Sall,Sociology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-08-22 07:41:17'), Timestamp('2023-08-22 07:41:17'))"
-1671234,Corky Cartwright,Computer Science,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-12-18 12:01:18'), Timestamp('2011-12-18 12:01:18'))"
-1869608,George Hirasaki,Engineering,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-12-23 12:12:15'), Timestamp('2013-12-23 12:12:15'))"
-1202812,Nick Iammarino,Anthropology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-05-11 16:20:55'), Timestamp('2013-05-11 16:20:55'))"
-1971220,Paul Engel ,Chemistry,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-12-30 05:05:01'), Timestamp('2014-12-30 05:05:01'))"
-1000177,Behnaam Aazhang,Engineering,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-11-03 17:03:54'), Timestamp('2009-11-03 17:03:54'))"
-1000179,Joseph Cavallaro,Engineering,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-11-16 16:08:52'), Timestamp('2009-11-16 16:08:52'))"
-1411643,Tayfun E. Tezduyar,Engineering,Rice University,School-799,2,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-02-24 07:26:29'), Timestamp('2025-01-06 20:14:02'))"
-2274832,James DeNicco,Economics,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2017-08-14 00:41:46'), Timestamp('2017-08-14 00:41:46'))"
-2600619,Lina Dib,Writing,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2020-05-20 15:42:41'), Timestamp('2020-05-20 15:42:41'))"
-1521494,T. S. Eugene NG,Computer Science,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-01-01 14:04:04'), Timestamp('2011-01-01 14:04:04'))"
-1706216,Wil Uecker,Business,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2012-04-04 09:53:08'), Timestamp('2012-04-04 09:53:08'))"
-1971219,Ed Billups,Chemistry,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-12-30 05:00:26'), Timestamp('2014-12-30 05:00:26'))"
-1773149,Renata Ramos,Engineering,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2012-11-29 22:35:44'), Timestamp('2012-11-29 22:35:44'))"
-1807492,Anastaysia Zavyalova,Business,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-04-09 15:51:09'), Timestamp('2013-04-09 15:51:09'))"
-1831238,Matthew Walker,English,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2014-01-09 19:48:38'), Timestamp('2014-01-09 19:48:38'))"
-2328794,Jon Flynn,Biology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2017-12-26 20:06:20'), Timestamp('2017-12-26 20:06:20'))"
-1305111,Robert Stein,Political Science,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2009-07-23 02:37:05'), Timestamp('2009-07-23 02:37:05'))"
-2640622,Brian Roundtree,Accounting,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2020-11-19 18:37:25'), Timestamp('2020-11-19 18:37:25'))"
-2609519,Nele Lefeldt,Biology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2022-01-09 23:50:00'), Timestamp('2022-01-09 23:50:00'))"
-184060,James Thompson,Mathematics,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2007-08-28 02:05:46'), Timestamp('2007-08-28 02:05:46'))"
-1521497,Robert Englebretson,Languages,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-01-01 14:08:37'), Timestamp('2011-01-01 14:08:37'))"
-1422818,Kristen Kulinowski,Chemistry,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2010-03-26 15:23:33'), Timestamp('2010-03-26 15:23:33'))"
-1838989,Genevera Allen,Engineering,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2013-09-26 19:50:00'), Timestamp('2013-09-26 19:50:00'))"
-2560503,Alan Crane,Business,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-11-20 16:31:42'), Timestamp('2024-11-20 16:31:42'))"
-682505,Margaret Beier,Psychology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2011-11-16 19:07:57'), Timestamp('2011-11-16 19:07:57'))"
-3027747,Marmar Orooji,Engineering,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2024-08-29 00:00:16'), Timestamp('2024-08-29 00:00:16'))"
-2617219,lora wildenthal,History,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2021-09-28 06:57:08'), Timestamp('2021-09-28 06:57:08'))"
-2622323,Brian Miller,Philosophy,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-04-01 00:15:39'), Timestamp('2023-04-01 00:15:39'))"
-2907821,Felix Wu,Psychology,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-05-08 22:27:10'), Timestamp('2023-05-08 22:27:10'))"
-2924817,Paul Kantor,Music,Rice University,School-799,1,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(Timestamp('2023-08-16 18:22:13'), Timestamp('2023-08-16 18:22:13'))"
-2141114,Rouzbeh Shahsavari,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2190101,Anshumali Shrivastava,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2281018,Mallesh Pai,Economics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2316647,David De Angelis,Management,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2345495,Eric Richardson,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2380976,Lam Yu,Physics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2579295,silviya valeyva,Mathematics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-1922869,Dinah Cohen-Vernik,Business,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2593510,Jianpeng Ma,Biology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2602088,Isabell Thomann,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2674925,Stephanie Burdine,Languages,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2809161,Han Pu,Physics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2848445,Leonardo Digiosia,Mathematics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2645743,Risa Meyers,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2930553,Hongdi Huang,Mathematics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2929559,Risa Myers,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2888388,Jeffrey Nittrouer,Geology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2970777,Jeff Russell,Business,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-3044973,Eleanor Farr,Business,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-1931927,Baidurya Bhattacharya,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2031490,Marjorie Corcoran ,Physics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2270192,Hannah Biggs,English,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2398560,Michael Deem,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2405611,John Olson,Biology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-1434362,Anatoly Kolomeisky,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2504989,Lesa Lu,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2535423,David Van Kleeck,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2665265,Aditya Mohite,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2771481,Matthew Jones,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2775497,Kristi Kincaid,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2498464,Desmond Hoebig,Music,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-1942682,Roberto   Bertolusso,Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-889935,Harvey Yunis,Classics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2016848,Jeff Tabor,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2276513,Douglas Oliver,Architecture,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2348719,Gisela Heffes,Languages,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-1436140,Luziris Turi,Languages,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2389401,James Disch,Economics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2517927,Andrew Klein,Humanities,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2518806,Charles Burrus,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2585202,Patricia Delucia,Psychology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2667007,Yingyan Lin,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2683547,Celine Verhofstad,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2804701,Logan Farrell,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2873445,Özge  Gurcanli,Psychology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2870514,Ozge  Gurcanli,Psychology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2881356,Alexei Stolboushkin,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2951742,Konstantinos Mamouras,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2984777,Lydia Kavraki,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2227767,John Hopkins,Art History,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2275262,Shannon Marlow,Psychology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2339839,Chad Rose,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-646491,Mahmoud El Gamal,Economics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2435752,Maarten de Hoop,Mathematics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2485987,richard Gunasekera,Biology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2771212,Kaleab Afework-Washington,Women's Studies,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2876423,Henk Mooiweer,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2512869,Maryam Emami,Languages,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2529299,Pradeep Anand,Business,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2602020,Claire Spadafora,Art History,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2879229,Esther Fernández ,Humanities,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2913068,Charles Dove,Film,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2878926,richie hawley,Music,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-3030497,Han Xiao,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-1922338,Christian Bick,Mathematics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2165200,David Alexander,Physics,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-3063054,William McDaniel,History,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2622774,Charles Siewert,Philosophy,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2644943,Bartlett Moore,Psychology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2683458,William VerMeulen,Music,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2693181,Kasey Yearty,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2701721,Diana Garcia Acero,Physical Education,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2659921,Julie Fette,Writing,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2744454,Mackale Joyner,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2784734,Lise Lu,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2791741,Carolyn Whaley,Business,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2798809,Carissa Simmerman,Psychology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2803920,Els Woudstra,English,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2803590,chris ferris,Business,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2580608,Xue Gao,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2926403,Arko Barman,Computer Science,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2916414,Michael Diehl,Engineering,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2932810,Fred Oswald,Psychology,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-2973904,Karl Blench,Music,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-3030016,Lea Nienhaus,Chemistry,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
-3039765,Gareth Gareth Keeves,Business,Rice University,School-799,0,RateMyProfAnalysis/T100Reviews/Universities/Rice_University,"(None, None)"
+id,name,department
+141412,Zhiyong Gao,Mathematics
+182001,J Tour,Science
+2111513,Craig Considine,Sociology
+136273,Mikki Hebl,Psychology
+476772,Mike Gustin,Biology
+223950,Frank Jones,Mathematics
+1756087,Craig Ceccanti,Marketing
+200788,Jill Carroll,Humanities
+370239,John Zammito,History
+1000189,Scott Rixner,Computer Science
+851676,Maher Awad,Languages
+1951481,Kyle Goyette,History
+486669,Barry Dunning,Physics
+804954,Scott Derrick,English
+753756,John Ambler,Political Science
+466340,Ron Goldman,Computer Science
+1671235,Luay Nakhleh,Computer Science
+1106619,Jon Chaika,Mathematics
+650556,Margeret Hennessy,Chemistry
+842786,Ussama Makdisi,History
+664471,David Caprette,Biology
+747961,Sarah Ellenzweig,English
+325460,Patricia Brogdon-Gomez,Languages
+136269,Mike Byrne,Psychology
+477275,Ashley Leeds,Political Science
+585971,Mark Kulstad,Philosophy
+842787,Earl Black,Political Science
+535987,John Greiner,Computer Science
+971842,Marc Dudey,Economics
+1248614,Rudy Guerra,Mathematics
+474649,Mary McHale,Chemistry
+904627,Eric Chesebro,Mathematics
+474652,Richard Stong,Mathematics
+1079194,Satish Nagarajaiah,Engineering
+251380,Yousif Shamoo,Biology
+683739,Jeffrey Kripal,Religion
+766354,Alexander Byrd,History
+476253,Stephen Zeff,Accounting
+755434,Philip Wood,Humanities
+911397,John Hutchinson,Chemistry
+477277,Hanoch Sheinman,Philosophy
+742662,Thomas Haskell,History
+251142,Cronin Justin,English
+1149511,Luis Duno-Gottberg,Film
+1257827,Elena Pavelescu,Mathematics
+116438,John Bryant,Economics
+789517,Andre Droxler,Geology
+174659,Deborah Nelson,Languages
+490590,Richard Baraniuk,Engineering
+657495,Evelyne Datta,Languages
+664446,Linda Neagley,Art History
+761907,George Sher,Philosophy
+844517,Yehia Massoud,Engineering
+585959,Bridget Gorman,Sociology
+1064195,Diana Strassmann,Women's Studies
+712087,Devika Subramanian,Computer Science
+702552,Emilie Dejonckheere,Languages
+2931991,HENGRUI LUO,Mathematics
+682125,Matt Schlief,Theater
+397811,Jane Hartsfield,Mathematics
+362387,David Worth,Humanities
+807291,Daniel Beal,Psychology
+1040622,Judy Radigan,Education
+2099367,Virginia Weckstrom Kantor,Music
+490598,Richard Massey,Engineering
+2727560,Mack Joyner,Computer Science
+585969,Richard Grandy,Philosophy
+268549,Cary Wolfe,English
+498287,Andrew Barron,Chemistry
+765791,Stanley Dodds,Physics
+1787432,Robert Werth,Sociology
+2616390,Eugene Zubarev,Chemistry
+1000183,Don Johnson,Engineering
+554128,Paul Stevenson,Physics
+804321,Suzanne Kemmer,Linguistics
+833522,John Olson,Chemistry
+1314428,James Weston,Economics
+1966505,Jonathan Lankford,Humanities
+1451721,Carl Atlee,Languages
+1236413,Brian Huberman,Film
+1029743,Sabin Cautis,Mathematics
+930516,Brandon Dugan,Geology
+845155,Vicki Colvin,Chemistry
+1000188,Erzsebet Merenyi,Engineering
+2380454,Siran Li,Mathematics
+1352569,Linda McNeil,Education
+1000186,Farinaz Koushanfar,Engineering
+1143649,James Brown,Economics
+1000192,Peter Varman,Engineering
+1002658,Ashutosh Sabharwal,Engineering
+761910,Paul Brace,Political Science
+2613009,Laura Kabiri,Health Science
+1005747,Heather Hardway,Mathematics
+1013614,George Zodrow,Economics
+1205941,Logan Browning,English
+1971218,Zach Ball,Chemistry
+1534930,David Kirk,Music
+1586673,Mason Tomson,Science
+2122451,Jason Hafner,Physics
+654523,Michael Maas,History
+3027745,Gibby Dunleavy,Computer Science
+2480115,Leila Peyravan,Accounting
+1376343,Susan Huang,Art History
+938004,David Queller,Biology
+825426,Kartik Mohanram,Engineering
+1124926,Christian Emden,Languages
+1807495,Otilia Obodaru,Business
+1677546,Andrew Putman,Mathematics
+791147,Kirsten Ostherr,Art History
+2511813,Rustam Zufarov,Accounting
+1965435,Carrie McNeil,Chemistry
+664430,Shirine Hamadeh,Art History
+1460567,Sharon Crawford,English
+797258,Beatriz Gonzalez-Stephan,Languages
+944707,Wesley Morris,English
+974522,Meredith Skura,English
+1836587,Michele Biavati,Economics
+1106631,Ella Saterbak,Science
+982734,Camelia Bejan,Economics
+2880803,James Tour,Chemistry
+1216698,Paul Hester,Fine Arts
+1217445,Thomas Jaber,Music
+2036136,vahid taghikhani ,Engineering
+1106626,Alma Novotny,Science
+3057608,Kim  Hooge,Psychology
+1671232,Vivek Sarkar,Computer Science
+759484,Carol Quillen,History
+1365205,Tristram Engelhardt,Philosophy
+1501681,Michelle Gilbertson,Chemistry
+1826061,Joe Warren,Computer Science
+939904,Haiyang Li,Business
+2270074,Sharad Borle,Management
+2045679,Jeff Nitrouer,Geology
+1025260,Nicoletta Orlandi,Philosophy
+1996038,Cristina Giliberti,Languages
+2274010,Shannon LaBove,Communication
+2341814,Jonathan Miles,Business
+1106632,Mary Lane,Science
+3027749,Janell Straach,Engineering
+2719687,Rebecca Smith,Computer Science
+2762191,Chelsea Walton,Mathematics
+2816035,Collete Nicolaou,Psychology
+2823609,Jason Joseph,Mathematics
+1750807,Stephen Wong,Computer Science
+3033484,Tim Schroeder,Philosophy
+698265,Hiroko Sato,Languages
+1794388,Anthony Chan,Physics
+2002570,Fr. Ray Cook,Religion
+1106625,Elias Bongmba,Religion
+1623118,Kenneth Goldsmith,Music
+1827486,Stanley Gilbert,Economics
+2410126,Maximo Salaberry,Languages
+1471189,Alexander Regier,English
+2843733,Frederick MacKintosh,Chemistry
+927547,Monika Nalepa,Political Science
+2804652,Jared Stenson,Physics
+3032742,Diana Massaro,Business
+1412069,Jessica Logan,Psychology
+2925910,Dialika Sall,Sociology
+1671234,Corky Cartwright,Computer Science
+1869608,George Hirasaki,Engineering
+1202812,Nick Iammarino,Anthropology
+1971220,Paul Engel ,Chemistry
+1000177,Behnaam Aazhang,Engineering
+1000179,Joseph Cavallaro,Engineering
+1411643,Tayfun E. Tezduyar,Engineering
+2274832,James DeNicco,Economics
+2600619,Lina Dib,Writing
+1521494,T. S. Eugene NG,Computer Science
+1706216,Wil Uecker,Business
+1971219,Ed Billups,Chemistry
+1773149,Renata Ramos,Engineering
+1807492,Anastaysia Zavyalova,Business
+1831238,Matthew Walker,English
+2328794,Jon Flynn,Biology
+1305111,Robert Stein,Political Science
+2640622,Brian Roundtree,Accounting
+2609519,Nele Lefeldt,Biology
+184060,James Thompson,Mathematics
+1521497,Robert Englebretson,Languages
+1422818,Kristen Kulinowski,Chemistry
+1838989,Genevera Allen,Engineering
+2560503,Alan Crane,Business
+682505,Margaret Beier,Psychology
+3027747,Marmar Orooji,Engineering
+2617219,lora wildenthal,History
+2622323,Brian Miller,Philosophy
+2907821,Felix Wu,Psychology
+2924817,Paul Kantor,Music
+2141114,Rouzbeh Shahsavari,Engineering
+2190101,Anshumali Shrivastava,Computer Science
+2281018,Mallesh Pai,Economics
+2316647,David De Angelis,Management
+2345495,Eric Richardson,Engineering
+2380976,Lam Yu,Physics
+2579295,silviya valeyva,Mathematics
+1922869,Dinah Cohen-Vernik,Business
+2593510,Jianpeng Ma,Biology
+2602088,Isabell Thomann,Engineering
+2674925,Stephanie Burdine,Languages
+2809161,Han Pu,Physics
+2848445,Leonardo Digiosia,Mathematics
+2645743,Risa Meyers,Computer Science
+2930553,Hongdi Huang,Mathematics
+2929559,Risa Myers,Computer Science
+2888388,Jeffrey Nittrouer,Geology
+2970777,Jeff Russell,Business
+3044973,Eleanor Farr,Business
+1931927,Baidurya Bhattacharya,Engineering
+2031490,Marjorie Corcoran ,Physics
+2270192,Hannah Biggs,English
+2398560,Michael Deem,Engineering
+2405611,John Olson,Biology
+1434362,Anatoly Kolomeisky,Chemistry
+2504989,Lesa Lu,Chemistry
+2535423,David Van Kleeck,Engineering
+2665265,Aditya Mohite,Engineering
+2771481,Matthew Jones,Chemistry
+2775497,Kristi Kincaid,Chemistry
+2498464,Desmond Hoebig,Music
+1942682,Roberto   Bertolusso,Science
+889935,Harvey Yunis,Classics
+2016848,Jeff Tabor,Engineering
+2276513,Douglas Oliver,Architecture
+2348719,Gisela Heffes,Languages
+1436140,Luziris Turi,Languages
+2389401,James Disch,Economics
+2517927,Andrew Klein,Humanities
+2518806,Charles Burrus,Engineering
+2585202,Patricia Delucia,Psychology
+2667007,Yingyan Lin,Engineering
+2683547,Celine Verhofstad,Chemistry
+2804701,Logan Farrell,Engineering
+2873445,Özge  Gurcanli,Psychology
+2870514,Ozge  Gurcanli,Psychology
+2881356,Alexei Stolboushkin,Computer Science
+2951742,Konstantinos Mamouras,Computer Science
+2984777,Lydia Kavraki,Computer Science
+2227767,John Hopkins,Art History
+2275262,Shannon Marlow,Psychology
+2339839,Chad Rose,Engineering
+646491,Mahmoud El Gamal,Economics
+2435752,Maarten de Hoop,Mathematics
+2485987,richard Gunasekera,Biology
+2771212,Kaleab Afework-Washington,Women's Studies
+2876423,Henk Mooiweer,Chemistry
+2512869,Maryam Emami,Languages
+2529299,Pradeep Anand,Business
+2602020,Claire Spadafora,Art History
+2879229,Esther Fernández ,Humanities
+2913068,Charles Dove,Film
+2878926,richie hawley,Music
+3030497,Han Xiao,Chemistry
+1922338,Christian Bick,Mathematics
+2165200,David Alexander,Physics
+3063054,William McDaniel,History
+2622774,Charles Siewert,Philosophy
+2644943,Bartlett Moore,Psychology
+2683458,William VerMeulen,Music
+2693181,Kasey Yearty,Chemistry
+2701721,Diana Garcia Acero,Physical Education
+2659921,Julie Fette,Writing
+2744454,Mackale Joyner,Computer Science
+2784734,Lise Lu,Chemistry
+2791741,Carolyn Whaley,Business
+2798809,Carissa Simmerman,Psychology
+2803920,Els Woudstra,English
+2803590,chris ferris,Business
+2580608,Xue Gao,Engineering
+2926403,Arko Barman,Computer Science
+2916414,Michael Diehl,Engineering
+2932810,Fred Oswald,Psychology
+2973904,Karl Blench,Music
+3030016,Lea Nienhaus,Chemistry
+3039765,Gareth Gareth Keeves,Business

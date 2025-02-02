@@ -1,86 +1,86 @@
-id,name,department,University,University_ID,reviews_count,file_location,date_range
-1178693,Rodney McKay,Physics,California Institute of Technology,School-148,36,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2008-09-15 15:28:55'), Timestamp('2017-03-14 11:01:32'))"
-1538116,Sheldon Cooper,Physics,California Institute of Technology,School-148,31,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-05-07 16:16:29'), Timestamp('2025-01-22 06:34:04'))"
-349680,Nate Lewis,Chemistry,California Institute of Technology,School-148,22,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2004-02-05 23:00:38'), Timestamp('2023-10-21 01:08:18'))"
-90542,Henry Lester,Science,California Institute of Technology,School-148,13,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2002-12-02 18:15:04'), Timestamp('2012-04-06 22:49:45'))"
-476502,Ali Hajimiri,Engineering,California Institute of Technology,School-148,13,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2004-10-21 16:27:44'), Timestamp('2024-01-13 00:16:08'))"
-174347,Yaser Abu-Mostafa,Computer Science,California Institute of Technology,School-148,10,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2003-03-28 07:43:48'), Timestamp('2017-12-17 13:30:23'))"
-174350,Niles Pierce,Mathematics,California Institute of Technology,School-148,10,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2003-03-28 07:50:57'), Timestamp('2013-10-10 14:40:55'))"
-174351,Glen George,Computer Science,California Institute of Technology,School-148,9,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2003-03-28 07:53:01'), Timestamp('2024-11-04 20:19:11'))"
-349673,Sterl Phinney,Physics,California Institute of Technology,School-148,8,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2004-02-05 22:45:51'), Timestamp('2023-10-21 00:52:08'))"
-60323,David Politzer,Science,California Institute of Technology,School-148,6,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2002-08-20 15:23:20'), Timestamp('2014-10-12 19:51:32'))"
-1763797,Rajesh Koothrappali,Astronomy,California Institute of Technology,School-148,6,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-12-02 01:38:37'), Timestamp('2019-06-24 19:23:08'))"
-182592,Douglas Rees,Chemistry,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2003-04-08 01:37:29'), Timestamp('2013-06-01 00:29:05'))"
-839369,Mike Brown,Geology,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2006-04-28 03:01:36'), Timestamp('2015-06-07 08:51:05'))"
-648329,Alan Weinstein,Physics,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-08-02 19:15:59'), Timestamp('2023-10-21 01:02:00'))"
-1824042,Leonard Hofstadter,Physics,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2013-08-20 11:55:49'), Timestamp('2022-10-13 12:17:13'))"
-310289,Shuki Bruck,Computer Science,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2003-12-04 21:40:30'), Timestamp('2013-10-10 14:35:52'))"
-1695459,Bobby Shirani,Engineering,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-02-22 15:44:41'), Timestamp('2015-06-26 04:45:01'))"
-427054,Charles Plott,Economics,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2004-06-24 17:21:50'), Timestamp('2010-03-23 14:43:07'))"
-429644,Christof Koch,Science,California Institute of Technology,School-148,5,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2004-07-02 13:00:49'), Timestamp('2009-10-25 04:33:21'))"
-910474,Chris Chambers,Culinary Arts,California Institute of Technology,School-148,4,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2006-11-03 22:12:00'), Timestamp('2011-12-07 18:18:45'))"
-1970873,nets katz,Mathematics,California Institute of Technology,School-148,4,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2015-09-07 06:30:28'), Timestamp('2023-10-21 01:07:07'))"
-260490,Zhen-Gang Wang,Engineering,California Institute of Technology,School-148,4,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2003-10-13 12:05:11'), Timestamp('2017-10-03 02:51:52'))"
-1763822,Howard Wolowitz,Engineering,California Institute of Technology,School-148,3,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2013-08-23 15:57:02'), Timestamp('2018-06-01 19:22:56'))"
-628171,Brian Stoltz,Chemistry,California Institute of Technology,School-148,3,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-06-01 22:23:34'), Timestamp('2019-05-31 02:17:25'))"
-1037474,Dmitrios Antsos,Engineering,California Institute of Technology,School-148,3,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2007-10-12 02:14:11'), Timestamp('2022-11-27 18:33:23'))"
-628168,Dominic Murphy,Philosophy,California Institute of Technology,School-148,3,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-06-01 22:19:16'), Timestamp('2014-12-11 13:54:48'))"
-592357,Kathryn Leonard,Mathematics,California Institute of Technology,School-148,3,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-04-06 19:02:28'), Timestamp('2012-03-19 15:06:52'))"
-1164123,S. George Djorgovski,Astronomy,California Institute of Technology,School-148,3,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2015-01-26 16:35:44'), Timestamp('2020-08-24 19:29:06'))"
-756603,Larry Fleinhardt,Physics,California Institute of Technology,School-148,3,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-11-14 21:03:53'), Timestamp('2014-08-05 13:51:22'))"
-634591,Seymour Benzer,Biology,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-06-21 13:46:51'), Timestamp('2009-07-20 12:08:08'))"
-714698,Jonas Peters,Chemistry,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2006-01-19 21:17:53'), Timestamp('2006-12-06 00:09:07'))"
-2597154,Amy Farrah Fowler,Biology,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2020-05-12 03:07:30'), Timestamp('2023-07-04 04:39:24'))"
-2787338,Alison Reinholtz,Biology,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2022-04-12 14:54:14'), Timestamp('2022-05-06 04:50:24'))"
-820278,John Dabiri,Engineering,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2008-04-30 11:41:18'), Timestamp('2008-10-25 00:05:01'))"
-1690414,Azita Emami,Engineering,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2020-05-01 05:58:09'), Timestamp('2024-05-09 22:07:00'))"
-772422,Aron Kuppermann,Chemistry,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-12-06 11:03:27'), Timestamp('2012-02-22 02:46:37'))"
-923459,Michael Cross,Physics,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2006-11-22 14:31:33'), Timestamp('2011-09-17 01:13:49'))"
-2207089,Shelby Waltman,Information Science,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2016-12-10 10:49:14'), Timestamp('2018-07-17 17:07:07'))"
-14618,Frances Arnold,Science,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2005-10-27 02:02:01'), Timestamp('2019-11-16 04:57:48'))"
-1548373,Thomas Neenan,Humanities,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2011-03-11 21:58:51'), Timestamp('2013-10-10 14:39:50'))"
-811928,Mathieu Desbrun,Computer Science,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2006-02-17 01:20:43'), Timestamp('2012-03-07 01:12:22'))"
-1992069,Charlie Eppes,Mathematics,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2015-03-18 20:43:30'), Timestamp('2017-05-07 23:24:03'))"
-1681245,Elena Mantovan,Mathematics,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2014-09-02 11:26:00'), Timestamp('2023-10-21 01:04:59'))"
-1661728,Kip Thorne,Physics,California Institute of Technology,School-148,2,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2004-04-14 21:21:27'), Timestamp('2016-03-31 16:29:18'))"
-2110831,Sarah Reisman,Chemistry,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2016-04-09 15:43:54'), Timestamp('2016-04-09 15:43:54'))"
-1000199,Babak Hassibi,Engineering,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-06-05 15:10:51'), Timestamp('2012-06-05 15:10:51'))"
-1546077,Ritsuko Hirai-Toner,Languages,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2013-12-05 04:01:32'), Timestamp('2013-12-05 04:01:32'))"
-2604719,Tina Austin,Biology,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2020-06-09 03:58:01'), Timestamp('2020-06-09 03:58:01'))"
-1495019,Barbara Nova,Psychology,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2010-11-12 18:50:32'), Timestamp('2010-11-12 18:50:32'))"
-1612850,Gideon Manning,Philosophy,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2011-08-26 04:18:36'), Timestamp('2011-08-26 04:18:36'))"
-1698269,Anthony Hernandez,Physics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-03-06 00:19:27'), Timestamp('2012-03-06 00:19:27'))"
-2161521,Samaya Nissanke,Physics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2019-02-04 23:10:56'), Timestamp('2019-02-04 23:10:56'))"
-1572840,Julia Greer,Science,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2011-05-03 09:24:10'), Timestamp('2011-05-03 09:24:10'))"
-1579435,Ahmed Zewail,Chemistry,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2014-09-16 03:42:03'), Timestamp('2014-09-16 03:42:03'))"
-2129710,Adam Wierman,Computer Science,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2018-05-25 19:50:42'), Timestamp('2018-05-25 19:50:42'))"
-1165454,Kerry Vahala,Physics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-04-12 10:54:22'), Timestamp('2012-04-12 10:54:22'))"
-2107048,Elizabeth Abrams,Humanities,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2016-01-30 12:58:56'), Timestamp('2016-01-30 12:58:56'))"
-1751338,Egill Hauksson,Geology,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-10-02 21:26:56'), Timestamp('2012-10-02 21:26:56'))"
-1621587,Nikolai Makarov,Mathematics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2012-03-07 01:20:38'), Timestamp('2012-03-07 01:20:38'))"
-1927545,Barry Kripke,Physics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2014-12-19 01:19:12'), Timestamp('2014-12-19 01:19:12'))"
-2964814,Aaron Ames,Engineering,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2023-12-11 20:12:16'), Timestamp('2023-12-11 20:12:16'))"
-2050518,Ryan Patterson,Physics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2015-10-20 17:25:44'), Timestamp('2015-10-20 17:25:44'))"
-2451917,Sadi Ayhan,Physics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2019-01-14 05:07:49'), Timestamp('2019-01-14 05:07:49'))"
-2122564,Hannalore Gerling-Dunsmore,Physics,California Institute of Technology,School-148,1,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(Timestamp('2019-03-16 20:36:41'), Timestamp('2019-03-16 20:36:41'))"
-2224836,Steven Low,Engineering,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2721098,Phil Isett,Mathematics,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2913912,Jeff Mendez,Chemistry,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-3046875,Adam Blank,Computer Science,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-1164156,John Pellam,Physics,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2019830,Sean Carroll,Physics,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2719916,Maria Mateo,Political Science,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2722239,Spencer Reid,Criminal Justice,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2737053,Archie Shahidullah,Computer Science,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2514047,Chandani Patel,Engineering,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2530176,Rick Hefner,Engineering,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2540565,Bertram Kibbler,Geology,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-1969936,Diana Kormos-Buchwald,Humanities,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2107046,Elizabeth Rich,Humanities,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2708439,Yanbei Chen,Physics,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2896078,Joanna Li,Physics,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-3059428,Magdalena Zernicka-Goetz,Biology,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-3071462,Philip-David Medows,Physics,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2160040,Barry Simon,Mathematics,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2481985,Justin Bois,Biology,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
-2969516,Anima Anandkumar,Computer Science,California Institute of Technology,School-148,0,RateMyProfAnalysis/T100Reviews/Universities/California_Institute_of_Technology,"(None, None)"
+id,name,department
+1178693,Rodney McKay,Physics
+1538116,Sheldon Cooper,Physics
+349680,Nate Lewis,Chemistry
+90542,Henry Lester,Science
+476502,Ali Hajimiri,Engineering
+174347,Yaser Abu-Mostafa,Computer Science
+174350,Niles Pierce,Mathematics
+174351,Glen George,Computer Science
+349673,Sterl Phinney,Physics
+60323,David Politzer,Science
+1763797,Rajesh Koothrappali,Astronomy
+182592,Douglas Rees,Chemistry
+839369,Mike Brown,Geology
+648329,Alan Weinstein,Physics
+1824042,Leonard Hofstadter,Physics
+310289,Shuki Bruck,Computer Science
+1695459,Bobby Shirani,Engineering
+427054,Charles Plott,Economics
+429644,Christof Koch,Science
+910474,Chris Chambers,Culinary Arts
+1970873,nets katz,Mathematics
+260490,Zhen-Gang Wang,Engineering
+1763822,Howard Wolowitz,Engineering
+628171,Brian Stoltz,Chemistry
+1037474,Dmitrios Antsos,Engineering
+628168,Dominic Murphy,Philosophy
+592357,Kathryn Leonard,Mathematics
+1164123,S. George Djorgovski,Astronomy
+756603,Larry Fleinhardt,Physics
+634591,Seymour Benzer,Biology
+714698,Jonas Peters,Chemistry
+2597154,Amy Farrah Fowler,Biology
+2787338,Alison Reinholtz,Biology
+820278,John Dabiri,Engineering
+1690414,Azita Emami,Engineering
+772422,Aron Kuppermann,Chemistry
+923459,Michael Cross,Physics
+2207089,Shelby Waltman,Information Science
+14618,Frances Arnold,Science
+1548373,Thomas Neenan,Humanities
+811928,Mathieu Desbrun,Computer Science
+1992069,Charlie Eppes,Mathematics
+1681245,Elena Mantovan,Mathematics
+1661728,Kip Thorne,Physics
+2110831,Sarah Reisman,Chemistry
+1000199,Babak Hassibi,Engineering
+1546077,Ritsuko Hirai-Toner,Languages
+2604719,Tina Austin,Biology
+1495019,Barbara Nova,Psychology
+1612850,Gideon Manning,Philosophy
+1698269,Anthony Hernandez,Physics
+2161521,Samaya Nissanke,Physics
+1572840,Julia Greer,Science
+1579435,Ahmed Zewail,Chemistry
+2129710,Adam Wierman,Computer Science
+1165454,Kerry Vahala,Physics
+2107048,Elizabeth Abrams,Humanities
+1751338,Egill Hauksson,Geology
+1621587,Nikolai Makarov,Mathematics
+1927545,Barry Kripke,Physics
+2964814,Aaron Ames,Engineering
+2050518,Ryan Patterson,Physics
+2451917,Sadi Ayhan,Physics
+2122564,Hannalore Gerling-Dunsmore,Physics
+2224836,Steven Low,Engineering
+2721098,Phil Isett,Mathematics
+2913912,Jeff Mendez,Chemistry
+3046875,Adam Blank,Computer Science
+1164156,John Pellam,Physics
+2019830,Sean Carroll,Physics
+2719916,Maria Mateo,Political Science
+2722239,Spencer Reid,Criminal Justice
+2737053,Archie Shahidullah,Computer Science
+2514047,Chandani Patel,Engineering
+2530176,Rick Hefner,Engineering
+2540565,Bertram Kibbler,Geology
+1969936,Diana Kormos-Buchwald,Humanities
+2107046,Elizabeth Rich,Humanities
+2708439,Yanbei Chen,Physics
+2896078,Joanna Li,Physics
+3059428,Magdalena Zernicka-Goetz,Biology
+3071462,Philip-David Medows,Physics
+2160040,Barry Simon,Mathematics
+2481985,Justin Bois,Biology
+2969516,Anima Anandkumar,Computer Science
