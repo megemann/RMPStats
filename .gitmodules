@@ -1,3 +1,6 @@
 [submodule "RMPT100Reviews"]
 	path = RMPT100Reviews
 	url = https://github.com/megemann/RMPT100Reviews
+[submodule "RMPStatsDashboard"]
+	path = RMPStatsDashboard
+	url = https://github.com/megemann/RMPStatsDashboard.git
