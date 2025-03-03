@@ -1,6 +1,9 @@
 # RateMyProfAnalysis
 Data Analysis and Summarization of Data from Rate My Professor Reviews 
 
+## Link
+https://RMPStats.vercel.app
+
 ## Dashboard roadmap:
 
 ### Professor Page
